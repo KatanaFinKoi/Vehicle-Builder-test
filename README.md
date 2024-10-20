@@ -5,3 +5,6 @@ This code will allow you to create a vehicle or select an existing one from a li
 
 ## code
 This code integrates TypeScript, classes, inquirer and node.js
+
+## Walkthrough
+https://demoair.wondershare.com/dashboard/video/share?id=8bf4a80d-0ceb-40da-a05c-085bb3a584c5
